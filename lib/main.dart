@@ -78,7 +78,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
 
-  List name = ["Mallika", "Khushi", "Tanya", "Shagun", "Dhawal", "Abhiram", "Daksh", "Utkarsh", "Aditya", "Dushyant"];
+  List name = ["XYZ", "YZ", "VWX", "STU", "PQR", "MNO", "JKL", "GHI", "DEF", "ABC"];
   List desg = ["ABC", "DEF", "GHI", "JKL", "MNO", "PQR", "STU", "VWX", "YZ", "XYZ"];
 
   @override
